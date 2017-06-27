@@ -1,6 +1,8 @@
 Init
 
 Min was here
-Man wants to change more thing
+Man wants to change more thing.
 
 // @author: min2244
+// Man is testing new fork feature
+// what is this?
